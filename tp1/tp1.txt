@@ -1,0 +1,4 @@
+
+9 Scientifiques & journalist who received the nobel price found
+
+[{'item': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q18456'}}, {'item': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q18391'}}, {'item': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q122368'}}, {'item': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q215139'}}, {'item': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q104622'}}, {'item': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q180989'}}, {'item': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q78488'}}, {'item': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q57311'}}, {'item': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q272224'}}]
